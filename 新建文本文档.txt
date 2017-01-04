@@ -1,5 +1,6 @@
 .LOG
-this is for test
+Github is cool! 
+Life is beautiful!
 
 1:13 2017/1/5
 
